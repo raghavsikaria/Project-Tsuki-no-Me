@@ -1,5 +1,9 @@
 # Introduction
 
+Welcome, this is my attempt at trying to find patterns, similarities or anything weirdly of interest: from earnings calls. The domain of finance intrigues me, hence I've taken call transcripts from top US banks. For the quest, I've thrown everything at the dataset, from traditional ML to SOTA NLP.
+
+This project also serves as my thesis presentation for `Visualization for Machine Learning class @ NYU`.
+
 # Data
 
 I have taken Earnings Call transcript data for top banks in US, for the first quarter of 2023. Data was sourced from [seekingalpha.com](https://seekingalpha.com/). I simply typed on Google: `largest banks in US`, Wikipedia gave some answer, it was based on old data, I chose to go along with it.
@@ -94,4 +98,14 @@ Here are the steps you can do to get the code working:
 
 # References
 
++ [FinBERT paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3910214)
++ [FinBERT HuggingFace Model Card](https://huggingface.co/yiyanghkust/finbert-tone)
++ [FinBERT Model GIT](https://github.com/yya518/FinBERT)
++ [Datasource SeekingAplha](https://seekingalpha.com/)
++ [NYU Visualization Observable](https://observablehq.com/@nyuvis)
++ [stackoverflow.com](https://stackoverflow.com/)
++ [List of largest banks in the United States](https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States)
+
 # Acknowledgments
+
+I wish to extend my deepest gratitude to Professor Dr. Claudio Silva and the wonderful TAs at Visualization for Machine Learning Class @ NYU. I thank the authors of FinBERT for their research, publishing the models on HuggingFace and exposing great documentations. I also thank seekingalpha.com for curating the transcripts data in an easily accessible form. Kudos to [NYU Visualization Observable](https://observablehq.com/@nyuvis) creators and maintainers, who exposed so many template D3JS codes for various visualizations.
