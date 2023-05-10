@@ -10,7 +10,7 @@ I have taken Earnings Call transcript data for top banks in US, for the first qu
 
 These are the banks considered for the analysis:
 
-| Symbol | Bank Name | Extra |
+| Symbol | Bank Name | Headquarters Location |
 | :---: | :---: | :---: |
 | JPM | JPMorgan Chase | New York City |
 | BAC | Bank of America | Charlotte, North Carolina |
@@ -53,7 +53,8 @@ As for why I chose this model? Well frankly, there aren't any other good fine-tu
 │   ├── vis_grouped_bar_chart.js
 │   ├── vis_pie_charts.js
 │   ├── vis_simple_bar_charts.js
-│   └── vis_small_multiple_area_chart.js
+|   ├── vis_small_multiple_area_chart.js
+│   └── viz_lda_topics_matrix.js
 ├── project.ipynb
 ├── requirements.txt
 ├── transcript_data
@@ -69,6 +70,7 @@ As for why I chose this model? Well frankly, there aren't any other good fine-tu
 │   ├── usb.txt
 │   └── wfc.txt
 └── visualizations
+    ├── viz_lda_topics.png
     ├── viz_number_of_characters.png
     ├── viz_number_of_sentences.png
     ├── viz_number_of_words.png
