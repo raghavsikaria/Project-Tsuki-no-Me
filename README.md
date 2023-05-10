@@ -12,17 +12,17 @@ These are the banks considered for the analysis:
 
 | Symbol | Bank Name | Extra |
 | :---: | :---: | :---: |
-| JPM | JPMorgan Chase | XX |
-| BAC | Bank of America | XX |
-| C | Citigroup | XX |
-| WFC | Wells Fargo | XX |
-| GS | Goldman Sachs | XX |
-| MS | Morgan Stanley | XX |
-| USB | U.S. Bancorp | XX |
-| PNC | PNC Financial Services | XX |
-| TFC | Truist Financial | XX |
-| TD | TD Bank, N.A. | XX |
-| COF | Capital One | XX |
+| JPM | JPMorgan Chase | New York City |
+| BAC | Bank of America | Charlotte, North Carolina |
+| C | Citigroup | New York City |
+| WFC | Wells Fargo | San Francisco |
+| GS | Goldman Sachs | New York City |
+| MS | Morgan Stanley | New York City |
+| USB | U.S. Bancorp | Minneapolis |
+| PNC | PNC Financial Services | Pittsburgh |
+| TFC | Truist Financial | Charlotte, North Carolina |
+| TD | TD Bank, N.A. | Cherry Hill, New Jersey |
+| COF | Capital One | McLean, Virginia |
 
 # Model
 
